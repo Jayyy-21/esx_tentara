@@ -51,7 +51,7 @@ Config.tentaraStations = {
 	  },
 
     Armories = {
-      { x = -2349.83, y = 3268.08, z = 32.81},,
+      { x = -2349.83, y = 3268.08, z = 32.81},
     },
 
     Vehicles = {
